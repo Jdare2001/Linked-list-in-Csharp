@@ -26,8 +26,23 @@ public class SinglyLinkedList{
             }
             current.next = toAdd;
         }
-         
-        
+          
+    }
+
+    public void AddToListFirst(string data){
+        if(head==null){
+            Node toAdd = new Node;
+
+            head = toAdd;
+            head.data = data;
+            head.next = null;
+        }
+        else{
+            Node toAdd = new Node;
+            toAdd.data = data;
+            toAdd.next = head;
+            head = toAdd;
+        }
     }
 
     
