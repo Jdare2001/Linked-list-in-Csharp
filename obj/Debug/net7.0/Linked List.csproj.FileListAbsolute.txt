@@ -1,0 +1,14 @@
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.AssemblyInfoInputs.cache
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.AssemblyInfo.cs
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.csproj.CoreCompileInputs.cache
+/Users/jaydendare/Documents/C#/Linked List/bin/Debug/net7.0/Linked List
+/Users/jaydendare/Documents/C#/Linked List/bin/Debug/net7.0/Linked List.deps.json
+/Users/jaydendare/Documents/C#/Linked List/bin/Debug/net7.0/Linked List.runtimeconfig.json
+/Users/jaydendare/Documents/C#/Linked List/bin/Debug/net7.0/Linked List.dll
+/Users/jaydendare/Documents/C#/Linked List/bin/Debug/net7.0/Linked List.pdb
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.dll
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/refint/Linked List.dll
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.pdb
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/Linked List.genruntimeconfig.cache
+/Users/jaydendare/Documents/C#/Linked List/obj/Debug/net7.0/ref/Linked List.dll
