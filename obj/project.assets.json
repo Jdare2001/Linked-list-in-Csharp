@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jaydendare/Documents/C#/Linked List/Linked List.csproj",
+      "projectUniqueName": "/Users/jaydendare/Documents/C#/Linked List/LInked-list-in-C-/Linked List.csproj",
       "projectName": "Linked List",
-      "projectPath": "/Users/jaydendare/Documents/C#/Linked List/Linked List.csproj",
+      "projectPath": "/Users/jaydendare/Documents/C#/Linked List/LInked-list-in-C-/Linked List.csproj",
       "packagesPath": "/Users/jaydendare/.nuget/packages/",
-      "outputPath": "/Users/jaydendare/Documents/C#/Linked List/obj/",
+      "outputPath": "/Users/jaydendare/Documents/C#/Linked List/LInked-list-in-C-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jaydendare/.nuget/NuGet/NuGet.Config"
